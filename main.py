@@ -12,7 +12,7 @@ for ch in s:
     space += 1
   else:
     other += 1
-print(f'英文字符：{letter}')
-print(f'数字：{digit}')
-print(f'空格：{space}')
-print(f'其他字符：{other}')
+print(f'英文字符:{letter}')
+print(f'数字:{digit}')
+print(f'空格:{space}')
+print(f'其他字符:{other}')
